@@ -1,0 +1,31 @@
+publishDir = "/"
+
+theme = "awesome-identity"
+baseURL = "https://chrisdbarker.github.io"
+title = "Chris Barker"
+
+
+## Profile Configurations
+[params.profile]
+  portrait = "/images/IBM_small.JPG"
+  firstname = "Chris"
+  lastname = "Barker"
+  title = "Associate Technology Specialist"
+  bio = """Current Technology Specialist at IBM CIC. Recent graduate with an interest for learning new technologies and a passion for making measurable impact. Loves meeting new people and solving problems in a team or as an individual.
+  """
+
+## Contacts Configurations
+[params.contacts]
+  email = "chrisdbarker@protonmail.com"
+  github = "chrisdbarker"
+  linkedin = "christopherdavidbarker"
+
+## Actions Configurations
+[[params.actions]]
+  name = "CV"
+  url = "https://raw.githubusercontent.com/chrisdbarker/chrisdbarker/master/ChrisBarkerCV.pdf"
+
+## Footer Configurations
+[params.footer]
+  copyright = "© 2021 Chris Barker. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+  poweredBy = true
